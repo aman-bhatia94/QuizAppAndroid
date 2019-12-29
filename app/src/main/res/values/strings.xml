@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="multiple_choice">Which band performed Fade To Black?</string>
+    <string-array name="bands">
+        <item>Guns n Roses</item>
+        <item>Metallica</item>
+        <item>Nirvana</item>
+        <item>Pearl Jam</item>
+    </string-array>
+
+    <string name="multiple_choice2">Who is the lead guitarist for Metallica?</string>
+    <string-array name="guitarists">
+        <item>Kirk Hammet</item>
+        <item>Angus Young</item>
+        <item>Dave Grohl</item>
+        <item>David Gilmour</item>
+    </string-array>
+    <string name="fill_blank">Who is Metallica\'s vocalist?</string>
+</resources>
